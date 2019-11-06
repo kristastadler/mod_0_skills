@@ -1,0 +1,14 @@
+Class: Dessert
+
+Attributes:
+name (string)
+servedCold (boolean)
+servedALaMode (boolean)
+servingDish (string)
+servingSize (integer)
+
+Methods
+changeName (changes name attribute)
+warmDessert (sets servedCold to false)
+addIceCream (sets servedALaMode to true)
+changeServingDish (changes servingDish attribute)
