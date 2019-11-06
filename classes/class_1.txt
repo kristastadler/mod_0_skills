@@ -1,0 +1,15 @@
+Class: Beverage
+
+Attributes
+color (string)
+alcoholic (boolean)
+servingSize (integer)
+ingredients (array)
+includesIce (boolean)
+
+Methods
+changeColor (changes color attribute)
+makeVirgin (sets alcoholic to false)
+changeRecipe (changes ingredients attribute)
+addIce (sets includesIce to true)
+makeDouble (multiplies servingSize by 2)
