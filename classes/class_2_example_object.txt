@@ -1,0 +1,14 @@
+Object: Chocolate Chip Cookie
+
+Attributes
+name: "Chocolate Chip Cookie"
+servedCold: false
+servedALaMode: false
+servingDish: "Plate"
+servingSize: 1
+
+Methods
+changeName: name = "Double Chocolate Cookie"
+warmDessert: servedCold = false
+addIceCream: servedALaMode = true
+changeServingDish: servingDish = "Bowl"
