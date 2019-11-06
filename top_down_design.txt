@@ -1,0 +1,48 @@
+How to become a Turing student
+
+1. Complete online application
+   1.1 Open laptop
+   1.2 Navigate to Turing website
+     1.2.1 Type web address in browser
+     1.2.2 Hit enter
+   1.3 Open "Programs" page on Turing homepage
+   1.4 Apply to program you are interested in
+     1.4.1 Find appropriate program on "Programs" homepage
+     1.4.2 Click "Apply Now"
+   1.5 Click "Apply Now" on application page
+   1.6 Register for new account using Facebook or Github
+     if using Facebook
+     1.6.1 Click Facebook
+     1.6.2 Follow prompts to link Facebook account
+     if using Github
+     1.6.1 Click Github
+     1.6.2 Follow prompts to link Github account
+   1.7 Login to Turing account
+   1.8 Fill out all sections of online application
+   1.9 Click complete
+2. Take online logic test
+   2.1 Take out paper and pen
+   2.2 Open logic test
+   2.3 Answer each question of logic test
+   2.4 Submit logic test
+3. Complete individual interview
+   3.1 Decide whether to schedule remotely or in person
+   3.2 Schedule interview
+   if scheduled remotely
+     3.2.1 Login to Google account at scheduled time
+     3.2.2 Accept Google Hangout call
+     3.2.3 Complete interview
+   if scheduled in person
+     3.2.1 Go to Turing office
+     if driving
+       3.2.1.1
+     if taking public transportation
+       3.2.1.1
+4. Receive admission offer
+5. Pay deposit
+6. Choose program
+7. Enroll in cohort
+8. Complete paperwork
+9. Complete Mod 0
+10. Complete Mod 0 Capstone
+11. Begin Turing
