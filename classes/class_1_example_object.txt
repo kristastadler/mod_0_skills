@@ -1,0 +1,15 @@
+Object: Margarita
+
+Attributes
+color: "Lime Green"
+alcoholic: true
+servingSize: 6
+ingredients: (lime, tequila, triple sec)
+includesIce: true
+
+Methods
+changeColor: color = "Red"
+makeVirgin: alcoholic = false
+changeRecipe: ingredients = (strawberry, tequila, triple sec)
+addIce: includesIce = true
+makeDouble: servingSize = 6 * 2 = 12
